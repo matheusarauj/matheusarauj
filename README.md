@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> Hi there! </h1>
+<br>
 
-<!--
-**matheusarauj/matheusarauj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Matheus Araújo. I have tried not to freak out with graduation, but I hope to graduate soon. Also I’m a music enthusiast and I love colorful things</p>
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Want to contact?</h3>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ara%C3%BAjo-609a0013b/)
+[<img src="https://img.shields.io/github/followers/marianacoimbra?label=follow&style=social" height="22" title="Follow me" />](https://github.com/matheusarauj)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matheus.araujo@ccc.ufcg.edu.br)
+</div>
+
+<div align="leftr">
+<h3>My GitHub: </h3>
+  
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusarauj&show_icons=true&theme=radical)
+</div>
